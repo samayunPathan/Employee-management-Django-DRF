@@ -54,8 +54,8 @@ employee_management/
 
 #### Clone the repository:
 ```bash
-https://github.com/your-username/employee-management.git
-cd employee-management
+https://github.com/samayunPathan/Employee-management-Django-DRF
+cd Employee-management-Django-DRF
 ```
 
 #### Create a virtual environment and activate it:
